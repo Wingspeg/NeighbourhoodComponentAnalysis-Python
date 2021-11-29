@@ -1,6 +1,6 @@
 # Neighbourhood-Component-Analysis
 
-近邻成分分析（Neighbourhood Component Analysis，NCA）是由Jacob Goldberger和Geoff Hinton等大佬们在2005年发表的一项工作，属于度量学习（Metric Learning）和降维（Dimension Reduction）领域。其关键点可以概括为：任务是KNN Classification，样本相似度计算方法基于马氏距离（Mahalanobis Distance），参数选择方法为留一验证法（Leave One Out）。最后模型可以学习样本的低维嵌入表示（Embedding），既属于度量学习范畴，又是降维的过程。
+近邻成分分析（Neighbourhood Component Analysis，NCA）是由Jacob Goldberger和Geoff Hinton等人在2005年发表的一项工作，属于度量学习（Metric Learning）和降维（Dimension Reduction）领域。其关键点可以概括为：任务是KNN Classification，样本相似度计算方法基于马氏距离（Mahalanobis Distance），参数选择方法为留一验证法（Leave One Out）。最后模型可以学习样本的低维嵌入表示（Embedding），既属于度量学习范畴，又是降维的过程。
 
 近邻成分分析在度量学习和降维领域展现了很强大的本领，也为后来很多降维的工作起了引导性的作用。本文将详细介绍NCA的思想和数学形式，然后也会围绕如何快速实现NCA进行介绍，利用Python3.6实现，最后给出一些自己实验得到的结果，以便更加了解NCA的能力与缺陷。
 
