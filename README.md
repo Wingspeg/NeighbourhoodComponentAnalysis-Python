@@ -321,24 +321,24 @@ self.A = fmin_cg(costf, A.ravel(), costg, maxiter = self.max_steps)
   <div> 
     <table>
      <tr>
-      <td><img src = "https://github.com/wingspeg/NeighbourhoodComponentAnalysis-Python/pics/mnist_with_2_digits.jpg"></td>
-      <td><img src = "https://github.com/wingspeg/NeighbourhoodComponentAnalysis-Python/pics/mnist_with_3_digits.jpg"></td>
-      <td><img src = "https://github.com/wingspeg/NeighbourhoodComponentAnalysis-Python/pics/mnist_with_4_digits.jpg"></td>
+      <td><img src = "https://github.com/wingspeg/NeighbourhoodComponentAnalysis-Python/tree/main/pics/mnist_with_2_digits.jpg"></td>
+      <td><img src = "https://github.com/wingspeg/NeighbourhoodComponentAnalysis-Python/tree/main/pics/mnist_with_3_digits.jpg"></td>
+      <td><img src = "https://github.com/wingspeg/NeighbourhoodComponentAnalysis-Python/tree/main/pics/mnist_with_4_digits.jpg"></td>
      </tr>
      <tr>
-      <td><img src = "https://github.com/wingspeg/NeighbourhoodComponentAnalysis-Python/pics/mnist_with_5_digits.jpg"></td>
-      <td><img src = "https://github.com/wingspeg/NeighbourhoodComponentAnalysis-Python/pics/mnist_with_6_digits.jpg"></td>
-      <td><img src = "https://github.com/wingspeg/NeighbourhoodComponentAnalysis-Python/pics/mnist_with_7_digits.jpg"></td>
+      <td><img src = "https://github.com/wingspeg/NeighbourhoodComponentAnalysis-Python/tree/main/pics/mnist_with_5_digits.jpg"></td>
+      <td><img src = "https://github.com/wingspeg/NeighbourhoodComponentAnalysis-Python/tree/main/pics/mnist_with_6_digits.jpg"></td>
+      <td><img src = "https://github.com/wingspeg/NeighbourhoodComponentAnalysis-Python/tree/main/pics/mnist_with_7_digits.jpg"></td>
      </tr>
      <tr>
-      <td><img src = "https://github.com/wingspeg/NeighbourhoodComponentAnalysis-Python/pics/mnist_with_8_digits.jpg"></td>
-      <td><img src = "https://github.com/wingspeg/NeighbourhoodComponentAnalysis-Python/pics/mnist_with_9_digits.jpg"></td>
-      <td><img src = "https://github.com/wingspeg/NeighbourhoodComponentAnalysis-Python/pics/mnist_with_10_digits.jpg"></td>
+      <td><img src = "https://github.com/wingspeg/NeighbourhoodComponentAnalysis-Python/tree/main/pics/mnist_with_8_digits.jpg"></td>
+      <td><img src = "https://github.com/wingspeg/NeighbourhoodComponentAnalysis-Python/tree/main/pics/mnist_with_9_digits.jpg"></td>
+      <td><img src = "https://github.com/wingspeg/NeighbourhoodComponentAnalysis-Python/tree/main/pics/mnist_with_10_digits.jpg"></td>
      </tr>
      <tr>
-      <td><img src = "https://github.com/wingspeg/NeighbourhoodComponentAnalysis-Python/pics/digits_np.jpg"></td>
-      <td><img src = "https://github.com/wingspeg/NeighbourhoodComponentAnalysis-Python/pics/breast_cancer.jpg"></td>
-      <td><img src = "https://github.com/wingspeg/NeighbourhoodComponentAnalysis-Python/pics/iris.jpg"></td>
+      <td><img src = "https://github.com/wingspeg/NeighbourhoodComponentAnalysis-Python/tree/main/pics/digits_np.jpg"></td>
+      <td><img src = "https://github.com/wingspeg/NeighbourhoodComponentAnalysis-Python/tree/main/pics/breast_cancer.jpg"></td>
+      <td><img src = "https://github.com/wingspeg/NeighbourhoodComponentAnalysis-Python/tree/main/pics/iris.jpg"></td>
      </tr>
      
     </table>
